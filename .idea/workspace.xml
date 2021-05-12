@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="675b1844-5d83-4ef1-b17c-4da8b47086eb" name="Default Changelist" comment="" />
+    <list default="true" id="675b1844-5d83-4ef1-b17c-4da8b47086eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/driver/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/driver/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleDataGenerator/integerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sampleDataGenerator/sampleData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -88,6 +102,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="178" key="#Project_Structure" timestamp="1620848812830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1620848812830" />
+    <state x="762" y="472" key="#com.intellij.ide.util.MemberChooser" timestamp="1620849724557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="472" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1620849724557" />
     <state x="462" y="94" key="SettingsEditor" timestamp="1620843731718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
